@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineer, currently working on personal projects while🌱 learning different frameworks (React, Node.js, Next.js, Spring and Astro)<br>⚡ Fun fact: It always takes time for me to start a project, but once I start I can't stop working on it.
+🔭 Software Engineer, currently working on personal projects while🌱 learning different frameworks (React, Node.js, Next.js, Express and Astro)<br>⚡ Fun fact: It always takes time for me to start a project, but once I start I can't stop working on it.
 
 🌐 **Portfolio:** [Visit My Portfolio](https://portfolio-carlos-azocar.vercel.app/)
 
