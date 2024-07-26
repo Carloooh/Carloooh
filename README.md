@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Carlos Azocar</h1>
 <h3 align="center">A Junior Full Stack Developer from Chile</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carloooh&label=Profile%20views&color=0e75b6&style=flat" alt="carloooh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carloooh" alt="carloooh" /></a> </p>
-
-- 🔭 I’m currently working on [personal projects, like an AI Voice Assistant](https://github.com/Carloooh/echoai)
+- 🔭 I’m currently working on personal projects, like an [AI Voice Assistant](https://github.com/Carloooh/echoai)
 
 - 🌱 I’m currently learning **Next.js and Astro**
 
-- 👨‍💻 Visit my portfolio [https://portfolio-carlos-azocar.vercel.app/](https://portfolio-carlos-azocar.vercel.app/)
+- 👨‍💻 Visit my [portfolio](https://portfolio-carlos-azocar.vercel.app/)
 
 - 📫 How to reach me **carlos.iah17@gmail.com**
 
