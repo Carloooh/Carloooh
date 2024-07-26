@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on personal projects, like an [AI Voice Assistant](https://github.com/Carloooh/echoai)
 
-- 🌱 I’m currently learning **Next.js and Astro**
+- 🌱 I’m currently learning **Next.js and Astro**  to enhance my development skills and stay updated with modern frameworks.
 
 - 👨‍💻 Visit my [portfolio](https://portfolio-carlos-azocar.vercel.app/)
+  
+- 🚀 Familiar with: Full Stack Development | QA (Quality Assurance) | Data Science | Big Data | Project Management
 
 - 📫 How to reach me **carlos.iah17@gmail.com**
 
