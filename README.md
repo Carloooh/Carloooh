@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Azocar</h1>
-<h3 align="center">A Junior Full Stack Developer from Chile</h3>
+<h3 align="center">A Full Stack Developer from Chile</h3>
 <!-- <h4 align="center">With knowledge in: Full Stack Development | QA | Data Science | Big Data | Project Management</h4> -->
 
 - 💻 I’m currently working on personal projects, like an [AI Voice Assistant](https://github.com/Carloooh/echoai), a [Screen Recorder](https://github.com/Carloooh/screen-recorder) and soon 🔜 an E-commerce 👀
